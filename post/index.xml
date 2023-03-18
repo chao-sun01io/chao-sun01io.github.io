@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Hi, I'm Charles Sun</title><link>https://charles-sun0v0.github.io/post/</link><atom:link href="https://charles-sun0v0.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Mar 2023 00:29:47 +0000</lastBuildDate><image><url>https://charles-sun0v0.github.io/media/icon_hub1f4e934428810b4c472c47ede4039fb_25901_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://charles-sun0v0.github.io/post/</link></image><item><title>Preface</title><link>https://charles-sun0v0.github.io/post/preface/</link><pubDate>Sun, 12 Mar 2023 00:29:47 +0000</pubDate><guid>https://charles-sun0v0.github.io/post/preface/</guid><description>&lt;p>As the first post of my new sites, it deserves to tell something about my motives for writing.&lt;/p>
+&lt;h2 id="why-do-i-write">Why do I write?&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Output as a way to learn&lt;/strong>. Inspired by Feynman techniques, I might try to explain complex concepts or knowledge in simple words if I need to understand something deeply. As a programmer, I have to continuous learning, which is also I would love to do. But I also care about how to learn fast and efficiently. I think some key concepts and core knowledge matters most in programming, and writing is a good technique to understand the knowledge better and deeper.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Display work and portfolio&lt;/strong>. During the job hunt process, I realize that the best CV is a portfolio. It might take time to accumulate a persuasive portfolio. What I enjoy most is the inner reward of making something (either writing an article or writing code).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Practice English writing skills&lt;/strong>. I recently relocated to the UK, a new challenge in my career and life, therefore it is important for me a non-native speaker practice English. And writing is an efficient way of practice. I have a Chinese blog &lt;a href="https://01io.tech" target="_blank" rel="noopener">https://01io.tech&lt;/a> running for about 2 years and now I start this English (maybe bilingual later) site try to post my writing&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="tools">Tools&lt;/h2>
+&lt;p>I used to set up a dynamic personal website with WordPress and ran for more than 2 years. But I find a static website might is much easier to maintain and let me focus on writing.&lt;/p>
+&lt;p>After some research, I decide to use Hugo to generate the sites from markdown and host on github.io.&lt;/p></description></item></channel></rss>
