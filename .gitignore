@@ -29,3 +29,6 @@ Temporary Items
 
 #hugo 
 .hugo_build.lock
+
+
+admin/cp-from-obsidian.sh
