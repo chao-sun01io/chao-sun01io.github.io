@@ -8,7 +8,8 @@ on:
     branches:
       - main  # Set a branch to deploy
   pull_request:
-
+  workflow_dispatch:
+  
 jobs:
   deploy:
     runs-on: ubuntu-22.04
