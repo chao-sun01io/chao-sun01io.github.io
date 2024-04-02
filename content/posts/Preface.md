@@ -25,7 +25,7 @@ As the first post on my new site, it should tell something about my motives for 
 
 ## Philosophy
 
-I like the idea from **digital garden**, that I don't have to be perfect for my posts. I have hundreds of time tried to be perfect but haven't actually get things done. see [A checklist for perfectionist and procrastinate](./A%20checklist%20for%20perfectionist%20and%20procrastinate.md).
+I like the idea from **digital garden**, that I don't have to be perfect for my posts. I have hundreds of time tried to be perfect but haven't actually get things done. see [A Checklist for a perfectionist and procrastinate](./A%20Checklist%20for%20a%20perfectionist%20and%20procrastinate.md).
 - each posts of the sites can be imperfect and incomplete
 - with time goes, the garden is developing and plants (posts here) are growingP
 ## Tools
