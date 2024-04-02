@@ -1,13 +1,14 @@
 ---
 publish: true
-title: tp-posts
+title: String split in C++
 aliases: []
 date: 2024-03-28T21:47:56Z
-lastmod: 2024-03-29T22:52:23Z
+lastmod: 2024-04-02T18:55:37Z
 tags: []
 category: posts
 summary: C++ has no built-in string split function. This post demostrate routines like python str.split()
 ---
+
 ## Split string
 
 1. use `getline` and `stringstream`

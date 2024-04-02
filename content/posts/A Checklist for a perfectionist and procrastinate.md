@@ -1,9 +1,9 @@
 ---
 publish: true
-title: A Checklist for perfectionist and procrastinate
+title: A Checklist for a perfectionist and procrastinate
 aliases: []
 date: 2024-01-20T11:47:46Z
-lastmod: 2024-03-24T17:37:28Z
+lastmod: 2024-04-02T19:17:53Z
 category: posts
 tags: []
 summary: 
@@ -22,7 +22,7 @@ We have so many decisions to make during the day; perfectionism makes me hesitat
 
 - When choosing from two items, choose the right (hand) one. （👏 homophonic puns）
 - Follow a routine. Take coffee, for example; if I need energy or cannot pee conveniently, I pick a latte; otherwise, I like an Americano.
-	- What if I try something different?  I have [Exploring Friday](Exploring%20Friday.md), which is the day I will try something different.
+	- What if I try something different?  I have [Exploring Friday](Exploring%2520Friday.md#), which is the day I will try something different.
 	- My partner tends to try new flavours of drinks and snacks; then, I stay in my comfort zone to hedge the risk.
 - Timing box method
 	- When writing， as my thoughts and ideas span, it is a scope creeping.
