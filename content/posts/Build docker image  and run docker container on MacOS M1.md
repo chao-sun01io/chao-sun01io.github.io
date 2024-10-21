@@ -2,8 +2,8 @@
 publish: true
 title: Build docker image  and run docker container on MacOS M1
 aliases: []
-date: 2024-03-03T14:31:33Z
-lastmod: 2024-10-21T20:18:28Z
+date: 2024-10-21T14:31:33Z
+lastmod: 2024-10-21T20:20:23Z
 tags: []
 category: posts
 summary: 
