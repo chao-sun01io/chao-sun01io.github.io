@@ -3,8 +3,10 @@ publish: true
 title: How evil a comma could be in Python
 aliases: []
 date: 2024-05-22T21:58:34Z
-lastmod: 2024-05-22T23:10:49Z
-tags: []
+lastmod: 2024-05-28T21:11:26Z
+tags:
+  - python
+  - debug
 category: posts
 summary: 
 ---
