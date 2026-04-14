@@ -1,4 +1,4 @@
-baseURL = '01io.dev'
+baseURL = 'https://01io.dev/'
 
 
 # Change the default theme to be use when building the site with Hugo
