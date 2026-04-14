@@ -1,0 +1,6 @@
+name = "chaos-digital-garden"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "public"
+
+[vars]
+HUGO_VERSION = "0.122.0"
