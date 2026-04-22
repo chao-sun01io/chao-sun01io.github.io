@@ -27,8 +27,10 @@ Temporary Items
 .apdisk
 
 
-#hugo 
+#hugo
 .hugo_build.lock
+public/
+resources/
 
 
 admin/cp-from-obsidian.sh
