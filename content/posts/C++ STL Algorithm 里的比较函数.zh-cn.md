@@ -6,7 +6,7 @@ title: C++ STL Algorithm 里的比较函数
 date: 2026-05-10T12:15:37Z
 lastmod: 2026-05-11T20:58:57Z
 category: posts
-tag: [C++, STL]
+tags: [C++, STL]
 co-author: Doubao AI, Gemini
 ---
 
